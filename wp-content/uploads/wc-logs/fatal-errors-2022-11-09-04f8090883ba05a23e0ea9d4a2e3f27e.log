@@ -1,0 +1,2 @@
+2022-11-09T08:02:08+00:00 CRITICAL Out of memory (allocated 12582912) (tried to allocate 20480 bytes) in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\src\Internal\Traits\AccessiblePrivateMethods.php on line 158
+

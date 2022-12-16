@@ -1,0 +1,190 @@
+
+---Downloaded files---
+The import files for: Travel Agency Demo were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/wordpress
+Data file = C:\xampp\htdocs\wordpress/wp-content/uploads/rara-demo-pack/travel-agency-demo-content/content/travelagency.xml
+Widget file = C:\xampp\htdocs\wordpress/wp-content/uploads/rara-demo-pack/travel-agency-demo-content/content/travelagency.wie
+Customizer file = C:\xampp\htdocs\wordpress/wp-content/uploads/rara-demo-pack/travel-agency-demo-content/content/travelagency.dat
+
+------
+Completed AJAX call number: 1
+
+
+------
+Completed AJAX call number: 2
+
+
+------
+Completed AJAX call number: 3
+
+
+------
+Completed AJAX call number: 4
+
+
+------
+Completed AJAX call number: 5
+
+
+------
+Completed AJAX call number: 6
+
+
+------
+Completed AJAX call number: 7
+
+
+------
+Completed AJAX call number: 8
+
+
+------
+Completed AJAX call number: 9
+
+
+------
+Completed AJAX call number: 10
+
+
+------
+Completed AJAX call number: 11
+
+
+------
+Completed AJAX call number: 12
+
+
+------
+Completed AJAX call number: 13
+
+
+------
+Completed AJAX call number: 14
+
+
+------
+Completed AJAX call number: 14
+
+
+------
+Completed AJAX call number: 15
+
+
+------
+Completed AJAX call number: 15
+
+
+------
+Completed AJAX call number: 16
+
+
+------
+Completed AJAX call number: 16
+
+
+------
+Completed AJAX call number: 17
+
+
+------
+Completed AJAX call number: 17
+
+
+------
+Completed AJAX call number: 18
+
+
+------
+Completed AJAX call number: 18
+
+
+------
+Completed AJAX call number: 19
+
+
+------
+Completed AJAX call number: 19
+
+
+------
+Completed AJAX call number: 20
+
+
+------
+Completed AJAX call number: 20
+
+
+------
+Completed AJAX call number: 21
+
+
+------
+Completed AJAX call number: 22
+
+
+---Importing content---
+[WARNING] Could not find the post parent for "jan-niclas-aberle-309470(1)" (post #441)
+[WARNING] Could not find the post parent for "index" (post #6123)
+[WARNING] Could not find the post parent for "index" (post #6124)
+[WARNING] Could not find the post parent for "download" (post #6125)
+[WARNING] Could not find the post parent for "constance-chen-28644(1)" (post #6126)
+[WARNING] Could not find the post parent for "erik-johnson-154578(1)" (post #521)
+[WARNING] Could not find the post parent for "sheshan-r-326366(1)" (post #6128)
+[WARNING] Could not find the post parent for "tomas-sobek-124155(1)" (post #6129)
+[WARNING] Could not find the post parent for "mathias-jensen-112591(1)" (post #6130)
+[WARNING] Could not find the post parent for "linkedin-sales-navigator-QgYvORVDdd8-unsplash (1) (1)" (post #1590)
+[WARNING] Could not find the post parent for "humphrey-muleba-9MoQKZW0nGU-unsplash (1) (1)" (post #1591)
+[WARNING] Could not find the post parent for "roland-samuel-MZ5A24H1JqU-unsplash(1)" (post #1592)
+[WARNING] Could not find the post parent for "hannah-nicollet-JQ2D4I-2eyw-unsplash(1)" (post #1593)
+[WARNING] Could not find the post parent for "zahir-namane-hwc7eIQiTCE-unsplash(1)" (post #1594)
+[WARNING] Could not find the post parent for "christina-wocintechchat-com-SJvDxw0azqw-unsplash(3)(1)" (post #1595)
+[WARNING] Could not find the post parent for "munib-saad-vr6rvuV3FWw-unsplash(1)" (post #1596)
+[WARNING] Could not find the post parent for "spencer-russell-C7FB7H-sXJs-unsplash(1)" (post #1597)
+[WARNING] Could not find the post parent for "christina-wocintechchat-com-_5_CBVCLBsY-unsplash(1)" (post #1598)
+[WARNING] Could not find the post parent for "maaz-ijaz-xKn9Udjublw-unsplash(1)" (post #1599)
+[WARNING] Could not find the post parent for "bantersnaps-v6771a4avV4-unsplash(1)" (post #1600)
+[WARNING] Could not find the post parent for "mehrad-vosoughi-iUQmEFtfdLw-unsplash(1)" (post #1601)
+[WARNING] Could not find the post parent for "" (post #299)
+
+Max execution time after content import = 300
+
+---Importing widgets---
+WP Travel Engine Sidebar : 
+
+Image - No Title - Imported
+wte_advanced_search_widget - WTE Search - Site does not support widget
+WP Travel Engine: Featured Trips Widget - No Title - Imported
+
+Sidebar : 
+
+wte_advanced_search_widget - Search - Site does not support widget
+WP Travel Engine: Featured Trips Widget - Featured Trips  - Imported
+Travel Agency: Recent Post - Recent Posts - Imported
+Travel Agency: Featured Widget - No Title - Imported
+Travel Agency: Popular Post - Popular Posts - Imported
+
+Footer One : 
+
+Text - Contact Info - Imported
+
+Footer Two : 
+
+Navigation Menu - Destinations - Imported
+
+Footer Three : 
+
+Navigation Menu - Activities - Imported
+
+Footer Four : 
+
+Navigation Menu - Trip Types - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---rrdi/after_import---
+

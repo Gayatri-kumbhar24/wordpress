@@ -1,0 +1,395 @@
+
+---Downloaded files---
+The import files for: Multi Category Store 1 were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/wordpress
+Data file = C:\xampp\htdocs\wordpress/wp-content/themes/revo/lib/import/demo-1/data.xml
+Widget file = C:\xampp\htdocs\wordpress/wp-content/themes/revo/lib/import/demo-1/widgets.json
+Customizer file = not defined!
+Options files:
+revo_theme -> C:\xampp\htdocs\wordpress/wp-content/themes/revo/lib/import/demo-1/theme_options.txt 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Sidebar Left Blog : 
+
+Categories - No Title - Imported
+Text - No Title - Imported
+Recent Posts - Recent Post - Imported
+
+Sidebar Right Blog : 
+
+Categories - No Title - Imported
+Text - No Title - Imported
+Recent Posts - Recent Post - Imported
+
+Top Header : 
+
+WooCommerce Currency Converter - No Title - Imported
+Text - No Title - Imported
+Navigation Menu - My Account - Imported
+SW Top Widget - No Title - Imported
+Text - No Title - Imported
+
+Top Header3 : 
+
+Navigation Menu - My account - Imported
+SW Top Widget - No Title - Imported
+Text - No Title - Imported
+Text - No Title - Imported
+
+Top Header8 : 
+
+Navigation Menu - My account - Imported
+SW Top Widget - No Title - Imported
+WooCommerce Currency Converter - No Title - Imported
+Text - No Title - Imported
+Text - No Title - Imported
+
+Top Header9 : 
+
+Text - No Title - Imported
+
+Top Header10 : 
+
+SW Top Widget - No Title - Imported
+Navigation Menu - My Account - Imported
+Text - No Title - Imported
+WooCommerce Currency Converter - No Title - Imported
+Text - No Title - Imported
+
+Top Header13 : 
+
+WooCommerce Currency Converter - No Title - Imported
+Custom HTML - No Title - Imported
+Custom HTML - No Title - Imported
+SW Top Widget - No Title - Imported
+Navigation Menu - My Account - Imported
+Custom HTML - No Title - Imported
+
+Top Header14 : 
+
+Custom HTML - No Title - Imported
+WooCommerce Currency Converter - No Title - Imported
+Custom HTML - No Title - Imported
+SW Top Widget - No Title - Imported
+
+Banner Header12 : 
+
+Text - No Title - Imported
+Image - No Title - Imported
+
+Contact Header : 
+
+Text - No Title - Imported
+
+Mid Header : 
+
+Navigation Menu - No Title - Imported
+SW Top Widget - No Title - Imported
+
+Mid Header2 : 
+
+SW Top Widget - No Title - Imported
+
+Mid Header12 : 
+
+Text - No Title - Imported
+
+Bottom Header : 
+
+SW Top Widget - No Title - Imported
+Navigation Menu - No Title - Imported
+
+Header Right : 
+
+SW Top Widget - No Title - Imported
+Navigation Menu - No Title - Imported
+
+Header Right Home4 : 
+
+SW Top Widget - No Title - Imported
+Navigation Menu - My Account - Imported
+SW Top Widget - No Title - Imported
+
+Header Right Home6 : 
+
+SW Top Widget - No Title - Imported
+Text - No Title - Imported
+
+Header Right Home9 : 
+
+SW Top Widget - No Title - Imported
+SW Ajax WooCommerce Search - Ajax Search - Imported
+Navigation Menu - My Account - Imported
+
+Header Right Home14 : 
+
+Custom HTML - No Title - Imported
+
+Header Left : 
+
+Text - No Title - Imported
+WooCommerce Currency Converter - No Title - Imported
+
+Sidebar Left Product : 
+
+WooCommerce product categories - Categories - Imported
+Filter Products by Attribute - Color - Imported
+Filter Products by Attribute - Size - Imported
+Filter Products by Price - price - Imported
+Text - No Title - Imported
+
+Sidebar Right Product : 
+
+WooCommerce product categories - Categories - Imported
+Filter Products by Attribute - Color - Imported
+Filter Products by Attribute - Size - Imported
+Filter Products by Price - price - Imported
+Text - No Title - Imported
+
+Sidebar Left Detail Product : 
+
+WooCommerce product categories - Categories - Imported
+Text - No Title - Imported
+
+Sidebar Right Detail Product : 
+
+WooCommerce product categories - Categories - Imported
+Text - No Title - Imported
+
+Sidebar Bottom Detail Product : 
+
+Sw Woocommerce Related &amp; Upsell Slider widget - No Title - Imported
+
+Filter Mobile : 
+
+Filter Products by Attribute - Color - Imported
+Filter Products by Attribute - Size - Imported
+Filter Products by Price - Price - Imported
+
+Footer Copyright : 
+
+Navigation Menu - No Title - Imported
+Image - No Title - Imported
+
+Widget Search : 
+
+SW Ajax WooCommerce Search - No Title - Imported
+
+Widget Mobile Top : 
+
+Text - No Title - Imported
+WooCommerce Currency Converter - No Title - Imported
+
+
+
+---pt-ocdi/after_import---
+array(16) {
+  ["import_file_name"]=>
+  string(22) "Multi Category Store 1"
+  ["page_title"]=>
+  string(4) "Home"
+  ["header_title"]=>
+  string(14) "Header style 1"
+  ["footer_title"]=>
+  string(14) "Footer style 1"
+  ["site_url"]=>
+  string(41) "https://demo.wpthemego.com/themes/sw_revo"
+  ["local_import_pagemenu_file"]=>
+  string(92) "C:\xampp\htdocs\wordpress/wp-content/themes/revo/lib/import/demo-1/demo-content-pagemenu.xml"
+  ["local_import_template_homepage"]=>
+  string(102) "C:\xampp\htdocs\wordpress/wp-content/themes/revo/lib/import/demo-1/demo-content-homepage-templates.xml"
+  ["local_import_file"]=>
+  string(75) "C:\xampp\htdocs\wordpress/wp-content/themes/revo/lib/import/demo-1/data.xml"
+  ["local_import_widget_file"]=>
+  string(79) "C:\xampp\htdocs\wordpress/wp-content/themes/revo/lib/import/demo-1/widgets.json"
+  ["local_import_page_file"]=>
+  string(88) "C:\xampp\htdocs\wordpress/wp-content/themes/revo/lib/import/demo-1/demo-content-page.xml"
+  ["local_import_revslider"]=>
+  array(1) {
+    ["slide1"]=>
+    string(81) "C:\xampp\htdocs\wordpress/wp-content/themes/revo/lib/import/demo-1/slideshow1.zip"
+  }
+  ["local_import_options"]=>
+  array(1) {
+    [0]=>
+    array(2) {
+      ["file_path"]=>
+      string(84) "C:\xampp\htdocs\wordpress/wp-content/themes/revo/lib/import/demo-1/theme_options.txt"
+      ["option_name"]=>
+      string(10) "revo_theme"
+    }
+  }
+  ["menu_locate"]=>
+  array(2) {
+    ["primary_menu"]=>
+    string(12) "Primary Menu"
+    ["vertical_menu"]=>
+    string(13) "Verticle Menu"
+  }
+  ["import_preview_image_url"]=>
+  string(73) "http://localhost/wordpress/wp-content/themes/revo/lib/import/demo-1/1.jpg"
+  ["import_notice"]=>
+  string(115) "After you import this demo, you will have to setup the slider separately. This import maybe finish on 10-15 minutes"
+  ["preview_url"]=>
+  string(42) "https://demo.wpthemego.com/themes/sw_revo/"
+}
+
