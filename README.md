@@ -13,7 +13,8 @@ Download the zip rename folder from wordpress-master to wordpress to run the pro
 
 2 Place folder wordpress in htdocs folder
 
-3 Create database test and import test.sql file
+3 Create database test and go to sql folder 
+import test.sql file
 
 4 Go to http://localhost/wordpress/wp-admin 
 Login Details
