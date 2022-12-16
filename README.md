@@ -24,4 +24,4 @@ After login set permalink
 
 5 Run project by using this url http://localhost/wordpress/about-us/
 
-6 Go to My Custom Post Type menu to for creating new custom post type
+6 Go to My Custom Post Type menu to for creating new custom post types
